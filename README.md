@@ -96,7 +96,8 @@ Analyze Acme Co.'s multi-year sales data to:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![powerBI]()
+![Power BI](https://img.shields.io/badge/Power_BI-11557c?style=flat&logo=powerbi&logoColor=white)
+
 
 ### Documentation
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
